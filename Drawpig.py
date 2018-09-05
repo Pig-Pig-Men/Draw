@@ -298,6 +298,6 @@ if __name__ == '__main__':
     t.speed(9)    # 画笔速度
     my_goto(100, -300)
     t.write('by 唐潇', font=("Bradley Hand ITC", 30, "bold"))
-    mainloop()
+    t.mainloop()
 
 
